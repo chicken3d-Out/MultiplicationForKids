@@ -1,0 +1,10 @@
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\bin\Debug\Computer Assisted Instruction.exe.config
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\bin\Debug\Computer Assisted Instruction.exe
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\bin\Debug\Computer Assisted Instruction.pdb
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer Assisted Instruction.csprojAssemblyReference.cache
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer_Assisted_Instruction.random_Num1.resources
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer_Assisted_Instruction.Properties.Resources.resources
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer Assisted Instruction.csproj.GenerateResource.cache
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer Assisted Instruction.csproj.CoreCompileInputs.cache
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer Assisted Instruction.exe
+C:\Users\Elsa\source\repos\Computer Assisted Instruction\Computer Assisted Instruction\obj\Debug\Computer Assisted Instruction.pdb
